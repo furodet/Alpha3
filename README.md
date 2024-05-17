@@ -4,6 +4,14 @@ Alpha3 is a VA synth developed with Simulink.
 
 # Architecture
 
+Main components:
+
+  * DCO: Digitally Controlled Oscillator
+  * DCF: Digitally Controlled Filter
+  * Envelopes
+  * LFO: Low Frequency Oscillators
+  * DCA: Digitally Controlled Amplifier
+
 ## Digitally Controlled Oscillator (DCO)
 
 The carrier is a mix of 3 oscillators:
