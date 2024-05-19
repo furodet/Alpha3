@@ -36,7 +36,7 @@ Basically a triangle shape with two parameters:
 OSC1 and OSC2 main pitch controlled for each oscillator:
 
   * octave, -2, -1 and +1
-  * fine pitch: adss up to 252 *xtones* per octave, meaning `252/12=21` *xtones* per semi-tone
+  * fine pitch: adds up to 120 *xtones* per octave, meaning `120/12=10` *xtones* per semi-tone
 
 ### Oscillator mix
 
